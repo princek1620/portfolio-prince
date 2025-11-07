@@ -1,0 +1,11 @@
+{
+  "name": "prince kalavadia Portfolio",
+  "short_name": "Noble",
+  "description": "Portfolio of prince kalavadia - Software Developer & Video Editor",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a"
+}
